@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-😄 About me: 
-Just russian boy, who likes doing everything and something forgot on github
+💤 Currently inactive due of exams
 
-🔭 I’m currently working on:
+🇷🇺 About me: 
+I'm just guy, who likes doing everything and forgot something on github
+
+
+🔭 My coding freelance projects:
 - Personal server
 - Android sandbox multiplayer game
 - [JBServer software](https://github.com/NovaPlayPE/JBServer)
