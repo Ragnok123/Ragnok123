@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-💤 Currently inactive due of exams
-
 🇷🇺 About me: 
 I'm just guy, who likes doing everything and forgot something on github
-
+Student of FIT CTU and law faculti of CUNI
 
 🔭 My coding freelance projects:
 - Personal server
